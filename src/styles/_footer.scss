@@ -1,0 +1,31 @@
+footer {
+  padding: 20px 0;
+
+  @include center;
+  flex-direction: column;
+
+  margin: 0px auto;
+  color: $white;
+
+  .social-icons {
+    // padding: 10px 0;
+
+    i {
+      padding: 15px;
+      font-size: 1.8rem;
+      color: $white;
+      transform: translateY(0);
+      transition: all 0.3s;
+
+      &:hover {
+        color: $light;
+        transform: translateY(-5px);
+      }
+    }
+  }
+
+  .copyright {
+    font-size: 1.1rem;
+    padding-bottom: 10px;
+  }
+}

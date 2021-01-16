@@ -1,0 +1,70 @@
+.hero {
+  @include center;
+  flex-direction: column;
+  justify-content: flex-start;
+  margin: 0 auto;
+  min-height: 100vh;
+
+  .wrapper {
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    justify-content: center;
+    height: 70vh;
+    font-family: $ff2;
+    padding: 10px;
+
+    .title {
+      font-size: 5rem;
+      font-weight: 500;
+    }
+    .tagline {
+      font-size: 2rem;
+    }
+
+    @media (max-width: $sm) {
+      .title {
+        font-size: 3.5rem;
+      }
+
+      .tagline {
+        font-size: 1.8rem;
+      }
+    }
+  }
+
+  animation: entry 2s forwards 1 1s normal ease;
+}
+
+@keyframes entry {
+  0% {
+    transform: translateY(-100%);
+    text-shadow: 10px 10px 10px $light;
+  }
+
+  50% {
+    transform: scale(1.3);
+    text-shadow: 10px 10px 10px $light;
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+.hero.light {
+  animation: entryLight 2s forwards 1 1s normal ease !important;
+  @keyframes entryLight {
+    0% {
+      transform: translateY(-100%);
+      text-shadow: 10px 10px 10px $dark;
+    }
+
+    50% {
+      transform: scale(1.3);
+      text-shadow: 10px 10px 10px $dark;
+    }
+    100% {
+      transform: scale(1);
+    }
+  }
+}
