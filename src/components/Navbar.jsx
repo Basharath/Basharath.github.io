@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 // import { Link } from 'react-router-dom';
 
-export default function Navbar({ handleLightmode }) {
+export default function Navbar({ handleLightmode, mode }) {
   const [show, setShow] = useState(false);
   const [scroll, setScroll] = useState(false);
 
@@ -64,7 +64,10 @@ export default function Navbar({ handleLightmode }) {
                 onClick={() => setShow(false)}
                 title="Click to change the light mode"
               >
-                <i className="fas fa-moon" onClick={handleLightmode}></i>
+                <i
+                  className={'fas fa-' + (mode ? 'moon' : 'sun')}
+                  onClick={handleLightmode}
+                ></i>
               </span>
             </ul>
 
