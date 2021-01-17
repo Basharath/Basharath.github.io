@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "./static/css/main.03560c20.chunk.css",
-    "main.js": "./static/js/main.80b39726.chunk.js",
-    "main.js.map": "./static/js/main.80b39726.chunk.js.map",
+    "main.css": "./static/css/main.4cd0345a.chunk.css",
+    "main.js": "./static/js/main.a0e43a21.chunk.js",
+    "main.js.map": "./static/js/main.a0e43a21.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.7e302512.js",
     "runtime-main.js.map": "./static/js/runtime-main.7e302512.js.map",
     "static/js/2.0e781cb9.chunk.js": "./static/js/2.0e781cb9.chunk.js",
     "static/js/2.0e781cb9.chunk.js.map": "./static/js/2.0e781cb9.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/main.03560c20.chunk.css.map": "./static/css/main.03560c20.chunk.css.map",
+    "static/css/main.4cd0345a.chunk.css.map": "./static/css/main.4cd0345a.chunk.css.map",
     "static/js/2.0e781cb9.chunk.js.LICENSE.txt": "./static/js/2.0e781cb9.chunk.js.LICENSE.txt",
     "static/media/analog-clock.c85d5fe9.png": "./static/media/analog-clock.c85d5fe9.png",
     "static/media/calendar.d0ff3a9c.png": "./static/media/calendar.d0ff3a9c.png",
@@ -24,7 +24,7 @@
   "entrypoints": [
     "static/js/runtime-main.7e302512.js",
     "static/js/2.0e781cb9.chunk.js",
-    "static/css/main.03560c20.chunk.css",
-    "static/js/main.80b39726.chunk.js"
+    "static/css/main.4cd0345a.chunk.css",
+    "static/js/main.a0e43a21.chunk.js"
   ]
 }
