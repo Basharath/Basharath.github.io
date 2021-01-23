@@ -5,7 +5,7 @@ export default function Hero({ mode }) {
     <section className={'hero' + (mode ? ' light' : ' dark')} id="home">
       <div className="wrapper">
         <span className="title">Basharath</span>
-        <span className="tagline">Frotend Developer </span>
+        <span className="tagline">Frontend Developer </span>
       </div>
     </section>
   );
