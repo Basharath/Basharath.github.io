@@ -8,6 +8,7 @@ import portfolio from './assets/portfolio1.png';
 import blog from './assets/tech-blog.png';
 import countries from './assets/countries.png';
 import countdown from './assets/newyear-countdown.png';
+import todo from './assets/todo_data.png';
 
 const projects = [
   {
@@ -17,6 +18,14 @@ const projects = [
       'A simple tech blog site with two sections, posts and sidebar. Post can be listed based on author & category.',
     demoUrl: 'https://tech-blog-react.netlify.app/',
     git: 'https://github.com/Basharath/tech-blog',
+  },
+  {
+    image: todo,
+    title: 'Todo App',
+    description:
+      "It's a todo app made using react with authentication, firebase db, and with PWA support. Todos can be CRUD-ed.",
+    demoUrl: 'https://quicktodoapp.netlify.app/',
+    git: 'https://github.com/Basharath/todo',
   },
   {
     image: countries,
