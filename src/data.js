@@ -9,8 +9,17 @@ import blog from './assets/tech-blog.png';
 import countries from './assets/countries.png';
 import countdown from './assets/newyear-countdown.png';
 import todo from './assets/todo_data.png';
+import emart from './assets/emart.png';
 
 const projects = [
+  {
+    image: emart,
+    title: 'eMart',
+    description:
+      'A full-stack MERN ecommerce site where users and vendors can signup to buy and sell their products.',
+    demoUrl: 'https://emart2shop.netlify.app/',
+    git: 'https://github.com/Basharath/eMart',
+  },
   {
     image: blog,
     title: 'Tech blog',
