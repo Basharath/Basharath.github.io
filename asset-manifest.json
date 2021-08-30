@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "./static/css/main.4cd0345a.chunk.css",
-    "main.js": "./static/js/main.c8b2413e.chunk.js",
-    "main.js.map": "./static/js/main.c8b2413e.chunk.js.map",
+    "main.js": "./static/js/main.a1e8d860.chunk.js",
+    "main.js.map": "./static/js/main.a1e8d860.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.7e302512.js",
     "runtime-main.js.map": "./static/js/runtime-main.7e302512.js.map",
     "static/js/2.0e781cb9.chunk.js": "./static/js/2.0e781cb9.chunk.js",
@@ -13,6 +13,7 @@
     "static/media/analog-clock.c85d5fe9.png": "./static/media/analog-clock.c85d5fe9.png",
     "static/media/calendar.d0ff3a9c.png": "./static/media/calendar.d0ff3a9c.png",
     "static/media/countries.d8fe3df4.png": "./static/media/countries.d8fe3df4.png",
+    "static/media/emart.aade57d9.png": "./static/media/emart.aade57d9.png",
     "static/media/event-logger.eab1a8a3.png": "./static/media/event-logger.eab1a8a3.png",
     "static/media/fireworks.8bebded7.png": "./static/media/fireworks.8bebded7.png",
     "static/media/newyear-countdown.fdfd3756.png": "./static/media/newyear-countdown.fdfd3756.png",
@@ -26,6 +27,6 @@
     "static/js/runtime-main.7e302512.js",
     "static/js/2.0e781cb9.chunk.js",
     "static/css/main.4cd0345a.chunk.css",
-    "static/js/main.c8b2413e.chunk.js"
+    "static/js/main.a1e8d860.chunk.js"
   ]
 }
