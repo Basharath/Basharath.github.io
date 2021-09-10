@@ -9,6 +9,7 @@
     background-color: $gray1;
     border-radius: 10px;
     border: 2px solid transparent;
+    transition: all 0.1s ease-in;
 
     &:hover {
       border: 2px solid $lightBackground;
