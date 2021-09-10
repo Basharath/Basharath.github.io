@@ -2,7 +2,7 @@ import eventLogger from './assets/event-logger.png';
 import techBreeze from './assets/tech-breeze.png';
 import calendar from './assets/calendar.png';
 import typingGame from './assets/typing-game.png';
-import analogClock from './assets/analog-clock.png';
+// import analogClock from './assets/analog-clock.png';
 import fireworks from './assets/fireworks.png';
 import portfolio from './assets/portfolio1.png';
 import blog from './assets/tech-blog.png';
@@ -10,6 +10,8 @@ import countries from './assets/countries.png';
 import countdown from './assets/newyear-countdown.png';
 import todo from './assets/todo_data.png';
 import emart from './assets/emart.png';
+import moviedb from './assets/moviedb.png';
+import ip from './assets/ip-location.png';
 
 const projects = [
   {
@@ -21,12 +23,28 @@ const projects = [
     git: 'https://github.com/Basharath/eMart',
   },
   {
+    image: moviedb,
+    title: 'MovieDB',
+    description:
+      'A NextJS site that helps to find the details of any movie. Homepage is static and the search page is dynamically rendered.',
+    demoUrl: 'https://moviedb-world.vercel.app/',
+    git: 'https://github.com/Basharath/moviedb',
+  },
+  {
     image: blog,
     title: 'Tech blog',
     description:
       'A simple tech blog site with two sections, posts and sidebar. Post can be listed based on author & category.',
     demoUrl: 'https://tech-blog-react.netlify.app/',
     git: 'https://github.com/Basharath/tech-blog',
+  },
+  {
+    image: ip,
+    title: 'IP location finder',
+    description:
+      'A simple Next JS site that shows the IP address and geo location of the client or the IP address searched.',
+    demoUrl: 'https://ip-geolocate.vercel.app/',
+    git: 'https://github.com/Basharath/ip-location',
   },
   {
     image: todo,
@@ -92,15 +110,14 @@ const projects = [
     demoUrl: 'https://new-year-count.netlify.app/',
     git: 'https://github.com/Basharath/new-year-countdown',
   },
-
-  {
-    image: analogClock,
-    title: 'Analog Clock',
-    description:
-      'An analog clock made using React which shows the current time with three clock hands.',
-    demoUrl: 'https://simple-analog-clock.netlify.app/',
-    git: 'https://github.com/Basharath/analog-clock',
-  },
+  // {
+  //   image: analogClock,
+  //   title: 'Analog Clock',
+  //   description:
+  //     'An analog clock made using React which shows the current time with three clock hands.',
+  //   demoUrl: 'https://simple-analog-clock.netlify.app/',
+  //   git: 'https://github.com/Basharath/analog-clock',
+  // },
   {
     image: fireworks,
     title: 'Canvas Fireworks',
