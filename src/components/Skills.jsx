@@ -9,12 +9,12 @@ export default function Skills() {
         <span className='skill'>CSS/SASS</span>
         <span className='skill'>JavaScript</span>
         <span className='skill'>React</span>
+        <span className='skill'>NextJS</span>
         <span className='skill'>Node</span>
         <span className='skill'>Express</span>
         <span className='skill'>Git</span>
         <span className='skill'>MongoDB</span>
         <span className='skill'>MySQL</span>
-        <span className='skill'>NextJS</span>
         <span className='skill'>Figma</span>
         <span className='skill'>Google AppScript</span>
         <span className='skill'>Photoshop</span>
