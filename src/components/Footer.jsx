@@ -5,7 +5,7 @@ export default function Footer() {
     <footer id="footer">
       <div className="social-icons">
         <a
-          href="https://twitter.com/hashBender"
+          href="https://twitter.com/wahVinci"
           target="_blank"
           rel="noopener noreferrer"
         >
