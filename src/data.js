@@ -12,6 +12,7 @@ import todo from './assets/todo_data.png';
 import emart from './assets/emart.png';
 import moviedb from './assets/moviedb.png';
 import ip from './assets/ip-location.png';
+import copyText from './assets/copy-text-easily.png';
 
 const projects = [
   {
@@ -21,6 +22,14 @@ const projects = [
       'A full-stack MERN ecommerce site where users and vendors can signup to buy and sell their products.',
     demoUrl: 'https://emart2shop.netlify.app/',
     git: 'https://github.com/Basharath/eMart',
+  },
+  {
+    image: copyText,
+    title: 'Copy Text Easily',
+    description:
+      'A simple chrome extension that helps to copy text, paragraphs, sentences and custom selections in browser.',
+    demoUrl: 'https://chrome.google.com/webstore/detail/copy-text-easily/fagmaopcbeobbfhkeodicjekiniefdlo',
+    git: 'https://chrome.google.com/webstore/detail/copy-text-easily/fagmaopcbeobbfhkeodicjekiniefdlo',
   },
   {
     image: moviedb,
