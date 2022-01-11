@@ -13,6 +13,7 @@ import emart from './assets/emart.png';
 import moviedb from './assets/moviedb.png';
 import ip from './assets/ip-location.png';
 import copyText from './assets/copy-text-easily.png';
+import colorChanger from './assets/color-changer.png';
 
 const projects = [
   {
@@ -28,7 +29,8 @@ const projects = [
     title: 'Copy Text Easily',
     description:
       'A simple chrome extension that helps to copy text, paragraphs, sentences and custom selections in browser.',
-    demoUrl: 'https://chrome.google.com/webstore/detail/copy-text-easily/fagmaopcbeobbfhkeodicjekiniefdlo',
+    demoUrl:
+      'https://chrome.google.com/webstore/detail/copy-text-easily/fagmaopcbeobbfhkeodicjekiniefdlo',
     git: 'https://chrome.google.com/webstore/detail/copy-text-easily/fagmaopcbeobbfhkeodicjekiniefdlo',
   },
   {
@@ -110,6 +112,14 @@ const projects = [
       'A typing game with three levels that gives user a score based on the correct number of words typed.',
     demoUrl: 'https://easy-typing-game.netlify.app/',
     git: 'https://github.com/Basharath/typing-game',
+  },
+  {
+    image: colorChanger,
+    title: 'Color changer & picker',
+    description:
+      'A simple color changing screen on mouse movement. Just with one click the color gets copied to the clipboard.',
+    demoUrl: 'https://color-changer-picker.netlify.app/',
+    git: 'https://github.com/Basharath/color-changer',
   },
   {
     image: countdown,
