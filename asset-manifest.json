@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "./static/css/main.d152f704.chunk.css",
-    "main.js": "./static/js/main.8f941850.chunk.js",
-    "main.js.map": "./static/js/main.8f941850.chunk.js.map",
+    "main.js": "./static/js/main.073a70c1.chunk.js",
+    "main.js.map": "./static/js/main.073a70c1.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.7e302512.js",
     "runtime-main.js.map": "./static/js/runtime-main.7e302512.js.map",
     "static/js/2.0e781cb9.chunk.js": "./static/js/2.0e781cb9.chunk.js",
@@ -11,6 +11,7 @@
     "static/css/main.d152f704.chunk.css.map": "./static/css/main.d152f704.chunk.css.map",
     "static/js/2.0e781cb9.chunk.js.LICENSE.txt": "./static/js/2.0e781cb9.chunk.js.LICENSE.txt",
     "static/media/calendar.d0ff3a9c.png": "./static/media/calendar.d0ff3a9c.png",
+    "static/media/color-changer.abb8dc9f.png": "./static/media/color-changer.abb8dc9f.png",
     "static/media/copy-text-easily.d64e57e0.png": "./static/media/copy-text-easily.d64e57e0.png",
     "static/media/countries.d8fe3df4.png": "./static/media/countries.d8fe3df4.png",
     "static/media/emart.aade57d9.png": "./static/media/emart.aade57d9.png",
@@ -29,6 +30,6 @@
     "static/js/runtime-main.7e302512.js",
     "static/js/2.0e781cb9.chunk.js",
     "static/css/main.d152f704.chunk.css",
-    "static/js/main.8f941850.chunk.js"
+    "static/js/main.073a70c1.chunk.js"
   ]
 }
