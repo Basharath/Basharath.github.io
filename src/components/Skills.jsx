@@ -15,6 +15,7 @@ export default function Skills() {
         <span className='skill'>Git</span>
         <span className='skill'>MongoDB</span>
         <span className='skill'>TypeScript</span>
+        <span className='skill'>TailwindCSS</span>
         <span className='skill'>Docker</span>
         <span className='skill'>MySQL</span>
         <span className='skill'>Figma</span>
