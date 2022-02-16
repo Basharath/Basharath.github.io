@@ -29,8 +29,7 @@ const projects = [
     title: 'Copy Text Easily',
     description:
       'A simple chrome extension that helps to copy text, paragraphs, sentences and custom selections in browser.',
-    demoUrl:
-      'https://chrome.google.com/webstore/detail/copy-text-easily/fagmaopcbeobbfhkeodicjekiniefdlo',
+    demoUrl: 'https://devapt.com/copy-text-easily',
     git: 'https://chrome.google.com/webstore/detail/copy-text-easily/fagmaopcbeobbfhkeodicjekiniefdlo',
   },
   {
