@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "./static/css/main.d152f704.chunk.css",
+    "main.css": "./static/css/main.007ad8bd.chunk.css",
     "main.js": "./static/js/main.4c3b1fb5.chunk.js",
     "main.js.map": "./static/js/main.4c3b1fb5.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.7e302512.js",
@@ -8,7 +8,7 @@
     "static/js/2.0e781cb9.chunk.js": "./static/js/2.0e781cb9.chunk.js",
     "static/js/2.0e781cb9.chunk.js.map": "./static/js/2.0e781cb9.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/main.d152f704.chunk.css.map": "./static/css/main.d152f704.chunk.css.map",
+    "static/css/main.007ad8bd.chunk.css.map": "./static/css/main.007ad8bd.chunk.css.map",
     "static/js/2.0e781cb9.chunk.js.LICENSE.txt": "./static/js/2.0e781cb9.chunk.js.LICENSE.txt",
     "static/media/calendar.d0ff3a9c.png": "./static/media/calendar.d0ff3a9c.png",
     "static/media/color-changer.abb8dc9f.png": "./static/media/color-changer.abb8dc9f.png",
@@ -29,7 +29,7 @@
   "entrypoints": [
     "static/js/runtime-main.7e302512.js",
     "static/js/2.0e781cb9.chunk.js",
-    "static/css/main.d152f704.chunk.css",
+    "static/css/main.007ad8bd.chunk.css",
     "static/js/main.4c3b1fb5.chunk.js"
   ]
 }
