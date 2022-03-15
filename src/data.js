@@ -7,22 +7,23 @@ import fireworks from './assets/fireworks.png';
 import portfolio from './assets/portfolio1.png';
 import blog from './assets/tech-blog.png';
 import countries from './assets/countries.png';
-import countdown from './assets/newyear-countdown.png';
+// import countdown from './assets/newyear-countdown.png';
 import todo from './assets/todo_data.png';
 import emart from './assets/emart.png';
 import moviedb from './assets/moviedb.png';
 import ip from './assets/ip-location.png';
 import copyText from './assets/copy-text-easily.png';
 import colorChanger from './assets/color-changer.png';
+import tweetlet from './assets/tweetlet.png';
 
 const projects = [
   {
-    image: emart,
-    title: 'eMart',
+    image: tweetlet,
+    title: 'Tweetlet',
     description:
-      'A full-stack MERN ecommerce site where users and vendors can signup to buy and sell their products.',
-    demoUrl: 'https://emart2shop.netlify.app/',
-    git: 'https://github.com/Basharath/eMart',
+      'A simple tool to create beautiful images from tweets, text and any other images in a snap.',
+    demoUrl: 'https://tweetlet.net/',
+    git: 'https://devapt.com/create-images-tweetlet',
   },
   {
     image: copyText,
@@ -31,6 +32,14 @@ const projects = [
       'A simple chrome extension that helps to copy text, paragraphs, sentences and custom selections in browser.',
     demoUrl: 'https://devapt.com/copy-text-easily',
     git: 'https://chrome.google.com/webstore/detail/copy-text-easily/fagmaopcbeobbfhkeodicjekiniefdlo',
+  },
+  {
+    image: emart,
+    title: 'eMart',
+    description:
+      'A full-stack MERN ecommerce site where users and vendors can signup to buy and sell their products.',
+    demoUrl: 'https://emart2shop.netlify.app/',
+    git: 'https://github.com/Basharath/eMart',
   },
   {
     image: moviedb,
@@ -120,14 +129,14 @@ const projects = [
     demoUrl: 'https://color-changer-picker.netlify.app/',
     git: 'https://github.com/Basharath/color-changer',
   },
-  {
-    image: countdown,
-    title: 'New year countdown',
-    description:
-      'A simple countdown page app counts the number of days left for the upcoming new year upto seconds.',
-    demoUrl: 'https://new-year-count.netlify.app/',
-    git: 'https://github.com/Basharath/new-year-countdown',
-  },
+  // {
+  //   image: countdown,
+  //   title: 'New year countdown',
+  //   description:
+  //     'A simple countdown page app counts the number of days left for the upcoming new year upto seconds.',
+  //   demoUrl: 'https://new-year-count.netlify.app/',
+  //   git: 'https://github.com/Basharath/new-year-countdown',
+  // },
   // {
   //   image: analogClock,
   //   title: 'Analog Clock',
