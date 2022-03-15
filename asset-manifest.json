@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "./static/css/main.007ad8bd.chunk.css",
-    "main.js": "./static/js/main.4c3b1fb5.chunk.js",
-    "main.js.map": "./static/js/main.4c3b1fb5.chunk.js.map",
+    "main.js": "./static/js/main.0b629430.chunk.js",
+    "main.js.map": "./static/js/main.0b629430.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.7e302512.js",
     "runtime-main.js.map": "./static/js/runtime-main.7e302512.js.map",
     "static/js/2.0e781cb9.chunk.js": "./static/js/2.0e781cb9.chunk.js",
@@ -19,17 +19,17 @@
     "static/media/fireworks.8bebded7.png": "./static/media/fireworks.8bebded7.png",
     "static/media/ip-location.7a072537.png": "./static/media/ip-location.7a072537.png",
     "static/media/moviedb.0b9508ad.png": "./static/media/moviedb.0b9508ad.png",
-    "static/media/newyear-countdown.fdfd3756.png": "./static/media/newyear-countdown.fdfd3756.png",
     "static/media/portfolio1.352b894e.png": "./static/media/portfolio1.352b894e.png",
     "static/media/tech-blog.caa595b8.png": "./static/media/tech-blog.caa595b8.png",
     "static/media/tech-breeze.2e9a9015.png": "./static/media/tech-breeze.2e9a9015.png",
     "static/media/todo_data.41e5cdaa.png": "./static/media/todo_data.41e5cdaa.png",
+    "static/media/tweetlet.9e9bd566.png": "./static/media/tweetlet.9e9bd566.png",
     "static/media/typing-game.8bc7fe84.png": "./static/media/typing-game.8bc7fe84.png"
   },
   "entrypoints": [
     "static/js/runtime-main.7e302512.js",
     "static/js/2.0e781cb9.chunk.js",
     "static/css/main.007ad8bd.chunk.css",
-    "static/js/main.4c3b1fb5.chunk.js"
+    "static/js/main.0b629430.chunk.js"
   ]
 }
