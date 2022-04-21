@@ -15,6 +15,7 @@ import ip from './assets/ip-location.png';
 import copyText from './assets/copy-text-easily.png';
 import colorChanger from './assets/color-changer.png';
 import tweetlet from './assets/tweetlet.png';
+import textImage from './assets/text-image.png';
 
 const projects = [
   {
@@ -24,6 +25,14 @@ const projects = [
       'A simple tool to create beautiful images from tweets, text and any other images in a snap.',
     demoUrl: 'https://tweetlet.net/',
     git: 'https://devapt.com/create-images-tweetlet',
+  },
+  {
+    image: textImage,
+    title: 'Text to image',
+    description:
+      'Text to image is a chrome extension that lets you create images instantly just from the text selection.',
+    demoUrl: 'https://chrome.google.com/webstore/detail/text-to-image/nkljaohokglebeljcgchmehnhdieakda',
+    git: 'https://devapt.com/',
   },
   {
     image: copyText,
