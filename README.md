@@ -2,6 +2,7 @@
 
 ## My latest projects
 
+- [Thread reader extension](https://chrome.google.com/webstore/detail/thread-reader/hjepbdajiiflfinpefagdanephmgajnh)
 - [Text to image converter](https://chrome.google.com/webstore/detail/text-to-image/nkljaohokglebeljcgchmehnhdieakda)
 - [Tweetlet](https://tweetlet.net/)
 - [Copy Text Easily](https://devapt.com/copy-text-easily)
