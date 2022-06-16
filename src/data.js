@@ -16,8 +16,18 @@ import copyText from './assets/copy-text-easily.png';
 import colorChanger from './assets/color-changer.png';
 import tweetlet from './assets/tweetlet.png';
 import textImage from './assets/text-image.png';
+import threadReader from './assets/thread-reader.png';
 
 const projects = [
+  {
+    image: threadReader,
+    title: 'Thread reader',
+    description:
+      'Thread reader is a chrome extension that helps you read Twitter threads like an article without any distraction.',
+    demoUrl:
+      'https://chrome.google.com/webstore/detail/thread-reader/hjepbdajiiflfinpefagdanephmgajnh',
+    git: 'https://devapt.com/',
+  },
   {
     image: tweetlet,
     title: 'Tweetlet',
@@ -31,7 +41,8 @@ const projects = [
     title: 'Text to image',
     description:
       'Text to image is a chrome extension that lets you create images instantly just from the text selection.',
-    demoUrl: 'https://chrome.google.com/webstore/detail/text-to-image/nkljaohokglebeljcgchmehnhdieakda',
+    demoUrl:
+      'https://chrome.google.com/webstore/detail/text-to-image/nkljaohokglebeljcgchmehnhdieakda',
     git: 'https://devapt.com/',
   },
   {
