@@ -93,14 +93,14 @@ const projects = [
     demoUrl: 'https://quicktodoapp.netlify.app/',
     git: 'https://github.com/Basharath/todo',
   },
-  {
-    image: countries,
-    title: 'Countries',
-    description:
-      'A glassmorhpic design of a single page site showcasing the details of various countries, having a sidebar & main section.',
-    demoUrl: 'https://countries-details.netlify.app/',
-    git: 'https://github.com/Basharath/countries',
-  },
+  // {
+  //   image: countries,
+  //   title: 'Countries',
+  //   description:
+  //     'A glassmorhpic design of a single page site showcasing the details of various countries, having a sidebar & main section.',
+  //   demoUrl: 'https://countries-details.netlify.app/',
+  //   git: 'https://github.com/Basharath/countries',
+  // },
   {
     image: portfolio,
     title: 'Portfolio site',
