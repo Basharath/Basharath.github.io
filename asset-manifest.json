@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "./static/css/main.d2ddefc8.chunk.css",
-    "main.js": "./static/js/main.b250b71e.chunk.js",
-    "main.js.map": "./static/js/main.b250b71e.chunk.js.map",
+    "main.js": "./static/js/main.0d8c87dc.chunk.js",
+    "main.js.map": "./static/js/main.0d8c87dc.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.7e302512.js",
     "runtime-main.js.map": "./static/js/runtime-main.7e302512.js.map",
     "static/js/2.0e781cb9.chunk.js": "./static/js/2.0e781cb9.chunk.js",
@@ -17,6 +17,7 @@
     "static/media/emart.aade57d9.png": "./static/media/emart.aade57d9.png",
     "static/media/event-logger.eab1a8a3.png": "./static/media/event-logger.eab1a8a3.png",
     "static/media/fireworks.8bebded7.png": "./static/media/fireworks.8bebded7.png",
+    "static/media/formeasy.1337f85d.png": "./static/media/formeasy.1337f85d.png",
     "static/media/ip-location.7a072537.png": "./static/media/ip-location.7a072537.png",
     "static/media/moviedb.0b9508ad.png": "./static/media/moviedb.0b9508ad.png",
     "static/media/portfolio1.352b894e.png": "./static/media/portfolio1.352b894e.png",
@@ -25,13 +26,13 @@
     "static/media/text-image.59065d80.png": "./static/media/text-image.59065d80.png",
     "static/media/thread-reader.426073e1.png": "./static/media/thread-reader.426073e1.png",
     "static/media/todo_data.41e5cdaa.png": "./static/media/todo_data.41e5cdaa.png",
-    "static/media/tweetlet.9e9bd566.png": "./static/media/tweetlet.9e9bd566.png",
+    "static/media/tweetlet.9829dc24.png": "./static/media/tweetlet.9829dc24.png",
     "static/media/typing-game.8bc7fe84.png": "./static/media/typing-game.8bc7fe84.png"
   },
   "entrypoints": [
     "static/js/runtime-main.7e302512.js",
     "static/js/2.0e781cb9.chunk.js",
     "static/css/main.d2ddefc8.chunk.css",
-    "static/js/main.b250b71e.chunk.js"
+    "static/js/main.0d8c87dc.chunk.js"
   ]
 }
