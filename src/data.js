@@ -17,8 +17,25 @@ import colorChanger from './assets/color-changer.png';
 import tweetlet from './assets/tweetlet.png';
 import textImage from './assets/text-image.png';
 import threadReader from './assets/thread-reader.png';
+import formeasy from './assets/formeasy.png';
 
 const projects = [
+  {
+    image: tweetlet,
+    title: 'Tweetlet',
+    description:
+      'Tweetlet is an amazing tool to create beautiful images from tweets, text and any other images in a snap.',
+    demoUrl: 'https://tweetlet.net/',
+    git: 'https://devapt.com/create-images-tweetlet',
+  },
+  {
+    image: formeasy,
+    title: 'FormEasy',
+    description:
+      'FormEasy is a free and open source apps script library that lets you receive forms from your static sites very easily.',
+    demoUrl: 'https://devapt.com/formeasy',
+    git: 'https://github.com/Basharath/FormEasy',
+  },
   {
     image: threadReader,
     title: 'Thread reader',
@@ -27,14 +44,6 @@ const projects = [
     demoUrl:
       'https://chrome.google.com/webstore/detail/thread-reader/hjepbdajiiflfinpefagdanephmgajnh',
     git: 'https://devapt.com/',
-  },
-  {
-    image: tweetlet,
-    title: 'Tweetlet',
-    description:
-      'A simple tool to create beautiful images from tweets, text and any other images in a snap.',
-    demoUrl: 'https://tweetlet.net/',
-    git: 'https://devapt.com/create-images-tweetlet',
   },
   {
     image: textImage,
