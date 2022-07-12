@@ -2,6 +2,7 @@
 
 ## My latest projects
 
+- [Bookmarker](https://devapt.com/bookmarker)
 - [FormEasy](https://devapt.com/formeasy)
 - [Thread reader extension](https://chrome.google.com/webstore/detail/thread-reader/hjepbdajiiflfinpefagdanephmgajnh)
 - [Text to image converter](https://chrome.google.com/webstore/detail/text-to-image/nkljaohokglebeljcgchmehnhdieakda)
