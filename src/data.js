@@ -18,6 +18,8 @@ import tweetlet from './assets/tweetlet.png';
 import textImage from './assets/text-image.png';
 import threadReader from './assets/thread-reader.png';
 import formeasy from './assets/formeasy.png';
+import formify from './assets/formify.png';
+import bookmarker from './assets/bookmarker.png';
 
 const projects = [
   {
@@ -26,7 +28,24 @@ const projects = [
     description:
       'Tweetlet is an amazing tool to create beautiful images from tweets, text and any other images in a snap.',
     demoUrl: 'https://tweetlet.net/',
-    git: 'https://devapt.com/create-images-tweetlet',
+    info: 'https://devapt.com/create-images-tweetlet',
+  },
+  {
+    image: formify,
+    title: 'Formify',
+    description:
+      'Formify is an open source tool that lets you create, manage and embed contact forms on any site with nocode.',
+    demoUrl: 'https://formify.vercel.app/',
+    git: 'https://github.com/Basharath/Formify',
+  },
+  {
+    image: bookmarker,
+    title: 'Bookmarker',
+    description:
+      'Bookmarker is a free tool that lets you bookmark web pages and use them productively without leaving the tab.',
+    demoUrl:
+      'https://chrome.google.com/webstore/detail/bookmarker/nkjpfijmpllhakjbbmeoedlcmaakhokg',
+    info: 'https://devapt.com/bookmarker',
   },
   {
     image: formeasy,
@@ -43,7 +62,7 @@ const projects = [
       'Thread reader is a chrome extension that helps you read Twitter threads like an article without any distraction.',
     demoUrl:
       'https://chrome.google.com/webstore/detail/thread-reader/hjepbdajiiflfinpefagdanephmgajnh',
-    git: 'https://devapt.com/',
+    info: 'https://www.producthunt.com/products/thread-reader-2#thread-reader-3',
   },
   {
     image: textImage,
@@ -52,15 +71,16 @@ const projects = [
       'Text to image is a chrome extension that lets you create images instantly just from the text selection.',
     demoUrl:
       'https://chrome.google.com/webstore/detail/text-to-image/nkljaohokglebeljcgchmehnhdieakda',
-    git: 'https://devapt.com/',
+    info: 'https://www.producthunt.com/products/text-to-image',
   },
   {
     image: copyText,
     title: 'Copy Text Easily',
     description:
       'A simple chrome extension that helps to copy text, paragraphs, sentences and custom selections in browser.',
-    demoUrl: 'https://devapt.com/copy-text-easily',
-    git: 'https://chrome.google.com/webstore/detail/copy-text-easily/fagmaopcbeobbfhkeodicjekiniefdlo',
+    demoUrl:
+      'https://chrome.google.com/webstore/detail/copy-text-easily/fagmaopcbeobbfhkeodicjekiniefdlo',
+    info: 'https://devapt.com/copy-text-easily',
   },
   {
     image: emart,
@@ -118,14 +138,14 @@ const projects = [
     demoUrl: 'https://portfolio-jd-one.netlify.app/',
     git: 'https://github.com/Basharath/portfolio-design1',
   },
-  {
-    image: eventLogger,
-    title: 'Event Logger',
-    description:
-      'A quick event logger webapp made using react. Events dates can be adjusted, deleted and counted.',
-    demoUrl: 'https://event-logger.netlify.app/',
-    git: 'https://github.com/Basharath/event-logger',
-  },
+  // {
+  //   image: eventLogger,
+  //   title: 'Event Logger',
+  //   description:
+  //     'A quick event logger webapp made using react. Events dates can be adjusted, deleted and counted.',
+  //   demoUrl: 'https://event-logger.netlify.app/',
+  //   git: 'https://github.com/Basharath/event-logger',
+  // },
   {
     image: techBreeze,
     title: 'Tech Breeze',
@@ -134,14 +154,14 @@ const projects = [
     demoUrl: 'https://tech-breeze.netlify.app/',
     git: 'https://github.com/Basharath/tech-breeze',
   },
-  {
-    image: calendar,
-    title: 'Calendar',
-    description:
-      'A simple calendar app made using react that shows calendar of any year and can be switched to month view as well.',
-    demoUrl: 'https://simple-calendar-app.netlify.app/',
-    git: 'https://github.com/Basharath/Calendar',
-  },
+  // {
+  //   image: calendar,
+  //   title: 'Calendar',
+  //   description:
+  //     'A simple calendar app made using react that shows calendar of any year and can be switched to month view as well.',
+  //   demoUrl: 'https://simple-calendar-app.netlify.app/',
+  //   git: 'https://github.com/Basharath/Calendar',
+  // },
   {
     image: typingGame,
     title: 'Typing Game',
