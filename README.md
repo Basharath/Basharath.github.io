@@ -2,6 +2,7 @@
 
 ## My latest projects
 
+- [Formify](https://formify.vercel.app/)
 - [Bookmarker](https://devapt.com/bookmarker)
 - [FormEasy](https://devapt.com/formeasy)
 - [Thread reader extension](https://chrome.google.com/webstore/detail/thread-reader/hjepbdajiiflfinpefagdanephmgajnh)
