@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "./static/css/main.d2ddefc8.chunk.css",
-    "main.js": "./static/js/main.0d8c87dc.chunk.js",
-    "main.js.map": "./static/js/main.0d8c87dc.chunk.js.map",
+    "main.js": "./static/js/main.30b25b4e.chunk.js",
+    "main.js.map": "./static/js/main.30b25b4e.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.7e302512.js",
     "runtime-main.js.map": "./static/js/runtime-main.7e302512.js.map",
     "static/js/2.0e781cb9.chunk.js": "./static/js/2.0e781cb9.chunk.js",
@@ -10,20 +10,20 @@
     "index.html": "./index.html",
     "static/css/main.d2ddefc8.chunk.css.map": "./static/css/main.d2ddefc8.chunk.css.map",
     "static/js/2.0e781cb9.chunk.js.LICENSE.txt": "./static/js/2.0e781cb9.chunk.js.LICENSE.txt",
-    "static/media/calendar.d0ff3a9c.png": "./static/media/calendar.d0ff3a9c.png",
+    "static/media/bookmarker.c4ac4a1c.png": "./static/media/bookmarker.c4ac4a1c.png",
     "static/media/color-changer.abb8dc9f.png": "./static/media/color-changer.abb8dc9f.png",
-    "static/media/copy-text-easily.d64e57e0.png": "./static/media/copy-text-easily.d64e57e0.png",
+    "static/media/copy-text-easily.ea243c54.png": "./static/media/copy-text-easily.ea243c54.png",
     "static/media/countries.d8fe3df4.png": "./static/media/countries.d8fe3df4.png",
     "static/media/emart.aade57d9.png": "./static/media/emart.aade57d9.png",
-    "static/media/event-logger.eab1a8a3.png": "./static/media/event-logger.eab1a8a3.png",
     "static/media/fireworks.8bebded7.png": "./static/media/fireworks.8bebded7.png",
     "static/media/formeasy.1337f85d.png": "./static/media/formeasy.1337f85d.png",
+    "static/media/formify.ea9069fd.png": "./static/media/formify.ea9069fd.png",
     "static/media/ip-location.7a072537.png": "./static/media/ip-location.7a072537.png",
     "static/media/moviedb.0b9508ad.png": "./static/media/moviedb.0b9508ad.png",
     "static/media/portfolio1.352b894e.png": "./static/media/portfolio1.352b894e.png",
     "static/media/tech-blog.caa595b8.png": "./static/media/tech-blog.caa595b8.png",
     "static/media/tech-breeze.2e9a9015.png": "./static/media/tech-breeze.2e9a9015.png",
-    "static/media/text-image.59065d80.png": "./static/media/text-image.59065d80.png",
+    "static/media/text-image.bce75497.png": "./static/media/text-image.bce75497.png",
     "static/media/thread-reader.426073e1.png": "./static/media/thread-reader.426073e1.png",
     "static/media/todo_data.41e5cdaa.png": "./static/media/todo_data.41e5cdaa.png",
     "static/media/tweetlet.9829dc24.png": "./static/media/tweetlet.9829dc24.png",
@@ -33,6 +33,6 @@
     "static/js/runtime-main.7e302512.js",
     "static/js/2.0e781cb9.chunk.js",
     "static/css/main.d2ddefc8.chunk.css",
-    "static/js/main.0d8c87dc.chunk.js"
+    "static/js/main.30b25b4e.chunk.js"
   ]
 }
