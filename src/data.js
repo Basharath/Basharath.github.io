@@ -1,6 +1,6 @@
-import eventLogger from './assets/event-logger.png';
+// import eventLogger from './assets/event-logger.png';
 import techBreeze from './assets/tech-breeze.png';
-import calendar from './assets/calendar.png';
+// import calendar from './assets/calendar.png';
 import typingGame from './assets/typing-game.png';
 // import analogClock from './assets/analog-clock.png';
 import fireworks from './assets/fireworks.png';
