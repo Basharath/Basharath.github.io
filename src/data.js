@@ -20,15 +20,16 @@ import threadReader from './assets/thread-reader.png';
 import formeasy from './assets/formeasy.png';
 import formify from './assets/formify.png';
 import bookmarker from './assets/bookmarker.png';
+import codelet from './assets/codelet.png';
 
 const projects = [
   {
-    image: tweetlet,
-    title: 'Tweetlet',
+    image: codelet,
+    title: 'CodeLet',
     description:
-      'Tweetlet is an amazing tool to create beautiful images from tweets, text and any other images in a snap.',
-    demoUrl: 'https://tweetlet.net/',
-    info: 'https://devapt.com/create-images-tweetlet',
+      'CodeLet is a free tool that lets you create beautiful and attention grabbing code snippet images in a snap.',
+    demoUrl: 'https://tweetlet.net/code',
+    info: 'https://www.producthunt.com/posts/codelet',
   },
   {
     image: formify,
@@ -37,6 +38,14 @@ const projects = [
       'Formify is an open source tool that lets you create, manage and embed contact forms on any site with nocode.',
     demoUrl: 'https://formify.vercel.app/',
     git: 'https://github.com/Basharath/Formify',
+  },
+  {
+    image: tweetlet,
+    title: 'Tweetlet',
+    description:
+      'Tweetlet is an amazing tool to create beautiful images from tweets, text and any other images in a snap.',
+    demoUrl: 'https://tweetlet.net/',
+    info: 'https://devapt.com/create-images-tweetlet',
   },
   {
     image: bookmarker,
