@@ -21,6 +21,7 @@ import formeasy from './assets/formeasy.png';
 import formify from './assets/formify.png';
 import bookmarker from './assets/bookmarker.png';
 import codelet from './assets/codelet.png';
+import linktransformer from './assets/link-transformer.png';
 
 const projects = [
   {
@@ -65,13 +66,12 @@ const projects = [
     git: 'https://github.com/Basharath/FormEasy',
   },
   {
-    image: threadReader,
-    title: 'Thread reader',
+    image: linktransformer,
+    title: 'Link transformer',
     description:
-      'Thread reader is a chrome extension that helps you read Twitter threads like an article without any distraction.',
-    demoUrl:
-      'https://chrome.google.com/webstore/detail/thread-reader/hjepbdajiiflfinpefagdanephmgajnh',
-    info: 'https://www.producthunt.com/products/thread-reader-2#thread-reader-3',
+      'Link transformer is a free tool that lets you transform your clickable links on social media to plain text.',
+    demoUrl: 'https://tools.devapt.com/link-transformer',
+    info: 'https://www.producthunt.com/posts/link-transformer',
   },
   {
     image: textImage,
@@ -90,6 +90,15 @@ const projects = [
     demoUrl:
       'https://chrome.google.com/webstore/detail/copy-text-easily/fagmaopcbeobbfhkeodicjekiniefdlo',
     info: 'https://devapt.com/copy-text-easily',
+  },
+  {
+    image: threadReader,
+    title: 'Thread reader',
+    description:
+      'Thread reader is a chrome extension that helps you read Twitter threads like an article without any distraction.',
+    demoUrl:
+      'https://chrome.google.com/webstore/detail/thread-reader/hjepbdajiiflfinpefagdanephmgajnh',
+    info: 'https://www.producthunt.com/products/thread-reader-2#thread-reader-3',
   },
   {
     image: emart,
