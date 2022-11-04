@@ -22,6 +22,7 @@ import formify from './assets/formify.png';
 import bookmarker from './assets/bookmarker.png';
 import codelet from './assets/codelet.png';
 import linktransformer from './assets/link-transformer.png';
+import twittercounter from './assets/twitter-counter.png';
 
 const projects = [
   {
@@ -72,6 +73,14 @@ const projects = [
       'Link transformer is a free tool that lets you transform your clickable links on social media to plain text.',
     demoUrl: 'https://tools.devapt.com/link-transformer',
     info: 'https://www.producthunt.com/posts/link-transformer',
+  },
+  {
+    image: twittercounter,
+    title: 'Twitter character counter',
+    description:
+      'Twitter counter is a free tool that lets you count the characters of a tweet, bio and profile name just same as Twitter.',
+    demoUrl: 'https://tools.devapt.com/twitter-counter',
+    // info: 'https://www.producthunt.com/posts/link-transformer',
   },
   {
     image: textImage,
