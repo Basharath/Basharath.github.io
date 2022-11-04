@@ -17,13 +17,14 @@ export default function Projects() {
               <i className='fas fa-external-link-alt'></i> Live
             </a>
           </div>
-          {info ? (
+          {info && (
             <div className='tag'>
               <a href={info} target='_blank' rel='noopener noreferrer'>
                 <i className='fas fa-info-circle'></i> Info
               </a>
             </div>
-          ) : (
+          )}
+          {git && (
             <div className='tag'>
               <a href={git} target='_blank' rel='noopener noreferrer'>
                 <i className='fab fa-github'></i> Source
