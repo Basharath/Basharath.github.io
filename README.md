@@ -2,6 +2,8 @@
 
 ## My latest projects
 
+- [viaNotion](https://vianotion.com)
+- [Notion Tweet Preview](https://chrome.google.com/webstore/detail/notion-tweet-preview/bmngbhaoelgififonanjdadhmomclcfo)
 - [Link transformer](https://tools.devapt.com/link-transformer)
 - [CodeLet](https://tweetlet.net/code)
 - [Formify](https://formify.vercel.app/)
