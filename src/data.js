@@ -23,8 +23,17 @@ import bookmarker from './assets/bookmarker.png';
 import codelet from './assets/codelet.png';
 import linktransformer from './assets/link-transformer.png';
 import twittercounter from './assets/twitter-counter.png';
+import viaNotion from './assets/viaNotion.png';
 
 const projects = [
+  {
+    image: viaNotion,
+    title: 'viaNotion',
+    description:
+      'viaNotion helps you manage and schedule content from Notion to Twitter and LinkedIn seamlessly',
+    demoUrl: 'https://vianotion.com',
+    info: 'https://twitter.com/viaNotion',
+  },
   {
     image: codelet,
     title: 'CodeLet',
