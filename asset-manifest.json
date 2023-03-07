@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "./static/css/main.d2ddefc8.chunk.css",
-    "main.js": "./static/js/main.14a15272.chunk.js",
-    "main.js.map": "./static/js/main.14a15272.chunk.js.map",
+    "main.js": "./static/js/main.19aa9aa5.chunk.js",
+    "main.js.map": "./static/js/main.19aa9aa5.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.7e302512.js",
     "runtime-main.js.map": "./static/js/runtime-main.7e302512.js.map",
     "static/js/2.0e781cb9.chunk.js": "./static/js/2.0e781cb9.chunk.js",
@@ -30,12 +30,13 @@
     "static/media/todo_data.41e5cdaa.png": "./static/media/todo_data.41e5cdaa.png",
     "static/media/tweetlet.9829dc24.png": "./static/media/tweetlet.9829dc24.png",
     "static/media/twitter-counter.ad9bcf60.png": "./static/media/twitter-counter.ad9bcf60.png",
-    "static/media/typing-game.8bc7fe84.png": "./static/media/typing-game.8bc7fe84.png"
+    "static/media/typing-game.8bc7fe84.png": "./static/media/typing-game.8bc7fe84.png",
+    "static/media/viaNotion.07b9fcdf.png": "./static/media/viaNotion.07b9fcdf.png"
   },
   "entrypoints": [
     "static/js/runtime-main.7e302512.js",
     "static/js/2.0e781cb9.chunk.js",
     "static/css/main.d2ddefc8.chunk.css",
-    "static/js/main.14a15272.chunk.js"
+    "static/js/main.19aa9aa5.chunk.js"
   ]
 }
