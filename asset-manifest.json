@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "./static/css/main.d2ddefc8.chunk.css",
-    "main.js": "./static/js/main.19aa9aa5.chunk.js",
-    "main.js.map": "./static/js/main.19aa9aa5.chunk.js.map",
+    "main.js": "./static/js/main.4ca0cc04.chunk.js",
+    "main.js.map": "./static/js/main.4ca0cc04.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.7e302512.js",
     "runtime-main.js.map": "./static/js/runtime-main.7e302512.js.map",
     "static/js/2.0e781cb9.chunk.js": "./static/js/2.0e781cb9.chunk.js",
@@ -23,6 +23,7 @@
     "static/media/link-transformer.d4d3ce4b.png": "./static/media/link-transformer.d4d3ce4b.png",
     "static/media/moviedb.0b9508ad.png": "./static/media/moviedb.0b9508ad.png",
     "static/media/portfolio1.352b894e.png": "./static/media/portfolio1.352b894e.png",
+    "static/media/quickyai.511ecb53.png": "./static/media/quickyai.511ecb53.png",
     "static/media/tech-blog.caa595b8.png": "./static/media/tech-blog.caa595b8.png",
     "static/media/tech-breeze.2e9a9015.png": "./static/media/tech-breeze.2e9a9015.png",
     "static/media/text-image.bce75497.png": "./static/media/text-image.bce75497.png",
@@ -37,6 +38,6 @@
     "static/js/runtime-main.7e302512.js",
     "static/js/2.0e781cb9.chunk.js",
     "static/css/main.d2ddefc8.chunk.css",
-    "static/js/main.19aa9aa5.chunk.js"
+    "static/js/main.4ca0cc04.chunk.js"
   ]
 }
