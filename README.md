@@ -2,6 +2,7 @@
 
 ## My latest projects
 
+- [QuickyAI](https://quickyai.com/)
 - [viaNotion](https://vianotion.com)
 - [Notion Tweet Preview](https://chrome.google.com/webstore/detail/notion-tweet-preview/bmngbhaoelgififonanjdadhmomclcfo)
 - [Link transformer](https://tools.devapt.com/link-transformer)
