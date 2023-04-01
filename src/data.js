@@ -24,8 +24,17 @@ import codelet from './assets/codelet.png';
 import linktransformer from './assets/link-transformer.png';
 import twittercounter from './assets/twitter-counter.png';
 import viaNotion from './assets/viaNotion.png';
+import quickyAi from './assets/quickyai.png';
 
 const projects = [
+  {
+    image: quickyAi,
+    title: 'Quicky AI',
+    description:
+      'Quicky AI is a Chrome extension that helps to use AI quickly and productively on any website just by selecting text',
+    demoUrl: 'https://quickyai.com',
+    info: 'https://quickyai.com',
+  },
   {
     image: viaNotion,
     title: 'viaNotion',
