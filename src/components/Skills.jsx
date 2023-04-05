@@ -15,11 +15,14 @@ export default function Skills() {
         <span className='skill'>Git</span>
         <span className='skill'>MongoDB</span>
         <span className='skill'>TypeScript</span>
-        <span className='skill'>TailwindCSS</span>
-        <span className='skill'>Docker</span>
+        <span className='skill'>AWS Lambda</span>
+        <span className='skill'>Chakra UI</span>
         <span className='skill'>MySQL</span>
-        <span className='skill'>Figma</span>
+        <span className='skill'>Firebase</span>
         <span className='skill'>Google AppScript</span>
+        <span className='skill'>TailwindCSS</span>
+        <span className='skill'>Figma</span>
+        <span className='skill'>Docker</span>
         <span className='skill'>Photoshop</span>
         <span className='skill'>Outreach</span>
         <span className='skill'>SEO</span>
