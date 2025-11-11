@@ -2,17 +2,20 @@
 
 ## My latest projects
 
+- [Copy Text Easily](https://devapt.com/copy-text-easily)
+- [Bookmarker Manager](https://devapt.com/bookmark-manager)
+- [Link Snapper](https://devapt.com/link-snapper)
+- [PDF converter](https://pdfjar.com/)
+- [Make Chrome Plugin](https://makechromeplugin.com/)
+- [Free Background Remover](https://devapt.com/background-remover)
 - [QuickyAI](https://quickyai.com/)
 - [viaNotion](https://vianotion.com)
 - [Notion Tweet Preview](https://chrome.google.com/webstore/detail/notion-tweet-preview/bmngbhaoelgififonanjdadhmomclcfo)
 - [Link transformer](https://tools.devapt.com/link-transformer)
 - [CodeLet](https://tweetlet.net/code)
 - [Formify](https://formify.vercel.app/)
-- [Bookmarker](https://devapt.com/bookmarker)
 - [FormEasy](https://devapt.com/formeasy)
-- [Thread reader extension](https://chrome.google.com/webstore/detail/thread-reader/hjepbdajiiflfinpefagdanephmgajnh)
-- [Text to image converter](https://chrome.google.com/webstore/detail/text-to-image/nkljaohokglebeljcgchmehnhdieakda)
+- [Text to image converter](https://devapt.com/text-to-image/)
 - [Tweetlet](https://tweetlet.net/)
-- [Copy Text Easily](https://devapt.com/copy-text-easily)
 
 > You can visit the live site at: https://basharath.github.io/
